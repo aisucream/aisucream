@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://media4.giphy.com/media/jmphxHznc7wBmsuaW1/giphy.gif"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://media.tenor.com/6AcaNYeHR0QAAAAC/twice-tzuyu.giff"><img src="https://media.tenor.com/6AcaNYeHR0QAAAAC/twice-tzuyu.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Aracdius Obaja</a>!</h1>
