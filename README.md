@@ -2,7 +2,7 @@
   <a href="https://media.tenor.com/6AcaNYeHR0QAAAAC/twice-tzuyu.giff"><img src="https://media.tenor.com/6AcaNYeHR0QAAAAC/twice-tzuyu.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Aracdius Obaja</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Arcadius Obaja</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~</h1>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
