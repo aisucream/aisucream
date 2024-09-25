@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://media1.tenor.com/m/DhEhafW4A2kAAAAC/marsha-marsha-jkt48.gif"><img src="https://media1.tenor.com/m/DhEhafW4A2kAAAAC/marsha-marsha-jkt48.gif" alt="Banner"></a>
+  <a href="https://media1.tenor.com/m/tgMFoqIZV-sAAAAC/marsha-jkt48.gif"><img src="https://media1.tenor.com/m/tgMFoqIZV-sAAAAC/marsha-jkt48.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Arcadius Obaja</a>!</h1>
