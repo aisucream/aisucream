@@ -1,42 +1,95 @@
-<p align="center">
-  <a href="https://media1.tenor.com/m/tgMFoqIZV-sAAAAC/marsha-jkt48.gif"><img src="https://media1.tenor.com/m/tgMFoqIZV-sAAAAC/marsha-jkt48.gif" alt="Banner"></a>
+# Hi, I'm Arcadius 👋
+
+<p align="left">
+Aspiring Data Engineer passionate about building ETL pipelines,
+data warehouses, and scalable analytics systems using Python, SQL,
+and cloud-based technologies.
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Arcadius Obaja</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~</h1>
+---
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Junior Software Engineering
-- 🎓 Studying at Institut Teknologi Telkom Surabaya
-- 👀 Will be a bachelor of information systems
+## 🚀 About Me
 
-## My Social Media
-<a href="https://instagram.com/obaja.n"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/SyntaxUndefined"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- 🎓 Information Systems Student at Institut Teknologi Telkom Surabaya
+- 💻 Focused on Data Engineering & Analytics
+- 📊 Interested in ETL Pipeline, Data Warehouse, and Data Modeling
+- ☁️ Building cloud-based projects using Google Colab & BigQuery
+- 📚 Currently learning orchestration and modern data stack
+- 🎯 Goal: Become a professional Data Engineer
 
-## 🎶My Mood Booster
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![Valorant](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+---
 
-## Tools
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## ⚙️ Languages & Database
 
-## Currently Studying
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-## Stats
-![Obaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=aisucream&theme=dark&show_icons=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+---
 
+## ☁️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/obaja.n">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/SyntaxUndefined">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/arcadius-obaja-naarie-124880243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎵 Outside Tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=riotgames&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</p>
+
+---
+<p align="center">
+  <i>"Transforming raw data into meaningful insights."</i>
+</p>
